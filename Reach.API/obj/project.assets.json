@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/basit/Desktop/Reach/Source Code/Reach/Reach/Reach.csproj",
-      "projectName": "Reach",
-      "projectPath": "/Users/basit/Desktop/Reach/Source Code/Reach/Reach/Reach.csproj",
+      "projectUniqueName": "/Users/basit/Desktop/Reach/Source Code/Reach/Reach.API/Reach.API.csproj",
+      "projectName": "Reach.API",
+      "projectPath": "/Users/basit/Desktop/Reach/Source Code/Reach/Reach.API/Reach.API.csproj",
       "packagesPath": "/Users/basit/.nuget/packages/",
-      "outputPath": "/Users/basit/Desktop/Reach/Source Code/Reach/Reach/obj",
+      "outputPath": "/Users/basit/Desktop/Reach/Source Code/Reach/Reach.API/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

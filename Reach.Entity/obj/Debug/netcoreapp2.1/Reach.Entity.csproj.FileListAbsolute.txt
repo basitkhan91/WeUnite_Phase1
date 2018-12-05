@@ -1,0 +1,3 @@
+/Users/basit/Desktop/Reach/Source Code/Reach/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.csproj.CoreCompileInputs.cache
+/Users/basit/Desktop/Reach/Source Code/Reach/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.AssemblyInfoInputs.cache
+/Users/basit/Desktop/Reach/Source Code/Reach/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.AssemblyInfo.cs
