@@ -2,7 +2,7 @@
 
 namespace Reach.Entity
 {
-    public class Address : BaseClass
+    public class Address : BaseEntity
     {
         public string City { get; set; }
         public string State { get; set; }

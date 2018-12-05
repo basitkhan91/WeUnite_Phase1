@@ -4,7 +4,7 @@ using Reach.Entity.Classes.Common;
 
 namespace Reach.Entity
 {
-    public class Tutee : BaseClass
+    public class Tutee : BaseEntity
     {
         [Required]
         [MaxLength(50)]
