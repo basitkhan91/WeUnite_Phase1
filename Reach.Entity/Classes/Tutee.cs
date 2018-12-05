@@ -20,7 +20,7 @@ namespace Reach.Entity
         public string Contact { get; set; }
 
         [MaxLength(15)]
-        public string AlterContact { get; set; }
+        public string AlternateContact { get; set; }
        
         [ForeignKey("AddressId")]
         public Address Address { get; set; }
