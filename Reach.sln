@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reach.Entity", "Reach.Entit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reach.API", "Reach.API\Reach.API.csproj", "{8C411A83-7331-4574-9799-3A3350846275}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reach.Repository", "Reach.Repository\Reach.Repository.csproj", "{DAFA28C3-071A-42B4-BC9F-D050C9000561}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{8C411A83-7331-4574-9799-3A3350846275}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C411A83-7331-4574-9799-3A3350846275}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C411A83-7331-4574-9799-3A3350846275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFA28C3-071A-42B4-BC9F-D050C9000561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFA28C3-071A-42B4-BC9F-D050C9000561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFA28C3-071A-42B4-BC9F-D050C9000561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFA28C3-071A-42B4-BC9F-D050C9000561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

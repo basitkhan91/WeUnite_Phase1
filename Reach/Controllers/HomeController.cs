@@ -8,8 +8,18 @@ using Reach.Models;
 
 namespace Reach.Controllers
 {
+
+    sealed class Test{
+        public void DoSomething(){
+            Debug.Write("Do Something");
+        }
+    }
+
+
+
     public class HomeController : Controller
     {
+        Test t = new Test();
         public IActionResult Index()
         {
             return View();
@@ -21,6 +31,7 @@ namespace Reach.Controllers
 
             return View();
         }
+       
 
         public IActionResult Contact()
         {
