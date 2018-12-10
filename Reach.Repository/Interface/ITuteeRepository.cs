@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using Reach.Entity;
 
-namespace Reach.Repository.IRepository
+namespace Reach.Repository
 {
     public interface ITuteeRepository : IRepository<Tutee>
     {
-        IEnumerable<Tutee> DoSomeOtherTask();
+        IEnumerable<Tutee> GetAllUndeletedTutees();
     }
-}
+}   

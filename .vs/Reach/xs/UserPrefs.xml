@@ -1,20 +1,17 @@
-﻿<Properties StartupConfiguration="{0FD0D58B-6FE4-4D2A-B849-E7BB0DF331F3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Reach.Entity/Address.cs">
+﻿<Properties StartupConfiguration="{EAB3D9D3-4FD0-4A43-BF59-06F541614B20}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Reach.API/Startup.cs">
     <Files>
-      <File FileName="Reach.API/appsettings.json" Line="1" Column="1" />
-      <File FileName="Reach.API/appsettings.Development.json" Line="10" Column="1" />
-      <File FileName="Reach.API/Controllers/ValuesController.cs" Line="18" Column="10" />
-      <File FileName="Reach.Entity/Tutee.cs" Line="13" Column="24" />
-      <File FileName="Reach.Entity/BaseClass.cs" Line="13" Column="9" />
-      <File FileName="Reach.Entity/Address.cs" Line="6" Column="10" />
+      <File FileName="Reach.API/Startup.cs" Line="38" Column="57" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Reach PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Reach.API FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Reach.API PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/basit/Desktop/WeUnite_Phase1/Reach.API/Controllers/ValuesController.cs" relfile="Reach.API/Controllers/ValuesController.cs" line="24" column="1" />
+      <Breakpoint file="/Users/basit/Desktop/WeUnite_Phase1/Reach.API/Controllers/ValuesController.cs" relfile="Reach.API/Controllers/ValuesController.cs" line="17" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

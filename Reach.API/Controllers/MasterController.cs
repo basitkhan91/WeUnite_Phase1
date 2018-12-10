@@ -3,18 +3,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Reach.Entity;
+using Reach.Repository;
 
 namespace Reach.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/master")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class MasterController : ControllerBase
     {
-        // GET api/values
-        [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public IUnitOfWork UnitOfWork;
+
+        public MasterController(IUnitOfWork _unitOfWork)
         {
-            return new string[] { "value1", "value2" };
+            UnitOfWork = _unitOfWork;
+        }
+
+        [HttpGet("countries/{id}")]
+        public ActionResult<IEnumerable<Country>> GetCountries(int id)
+        {
+            var countries = UnitOfWork.Repository<Country>().GetAll().ToList();
+            return Ok(countries);
         }
 
         // GET api/values/5

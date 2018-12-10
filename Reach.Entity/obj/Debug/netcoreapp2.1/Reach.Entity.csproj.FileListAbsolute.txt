@@ -1,3 +1,11 @@
 /Users/basit/Desktop/Reach/Source Code/Reach/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.csproj.CoreCompileInputs.cache
 /Users/basit/Desktop/Reach/Source Code/Reach/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.AssemblyInfoInputs.cache
 /Users/basit/Desktop/Reach/Source Code/Reach/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.AssemblyInfo.cs
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Entity/bin/Debug/netcoreapp2.1/Reach.Entity.deps.json
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Entity/bin/Debug/netcoreapp2.1/Reach.Entity.dll
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Entity/bin/Debug/netcoreapp2.1/Reach.Entity.pdb
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.csproj.CoreCompileInputs.cache
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.AssemblyInfoInputs.cache
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.AssemblyInfo.cs
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.dll
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Entity/obj/Debug/netcoreapp2.1/Reach.Entity.pdb

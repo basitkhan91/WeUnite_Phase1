@@ -1,0 +1,12 @@
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/bin/Debug/netcoreapp2.1/Reach.Repository.deps.json
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/bin/Debug/netcoreapp2.1/Reach.Repository.dll
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/bin/Debug/netcoreapp2.1/Reach.Repository.pdb
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/bin/Debug/netcoreapp2.1/Reach.Entity.dll
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/bin/Debug/netcoreapp2.1/Reach.Entity.pdb
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/obj/Debug/netcoreapp2.1/Reach.Repository.csproj.CoreCompileInputs.cache
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/obj/Debug/netcoreapp2.1/Reach.Repository.AssemblyInfoInputs.cache
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/obj/Debug/netcoreapp2.1/Reach.Repository.AssemblyInfo.cs
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/obj/Debug/netcoreapp2.1/Reach.Repository.csproj.CopyComplete
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/obj/Debug/netcoreapp2.1/Reach.Repository.dll
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/obj/Debug/netcoreapp2.1/Reach.Repository.pdb
+/Users/basit/Desktop/WeUnite_Phase1/Reach.Repository/obj/Debug/netcoreapp2.1/Reach.Repository.csprojAssemblyReference.cache
